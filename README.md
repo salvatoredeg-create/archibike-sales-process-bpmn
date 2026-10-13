@@ -38,11 +38,3 @@ L'obiettivo è supportare il percorso di trasformazione digitale dell'azienda at
 - **Microsoft Excel**: Gestione e pulizia dati anagrafici e transazionali clienti.
 
 ---
-
-## 👥 Autori (Team Vendite)
-
-- **Giuseppe Altamura**
-- **Emanuele Violi**
-- **Angelo Andrea Albano**
-- **Salvatore De Gregorio**
-- **Fabio D'Amato**
