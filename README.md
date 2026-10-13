@@ -25,8 +25,7 @@ L'obiettivo è supportare il percorso di trasformazione digitale dell'azienda at
 | `ArchiBike_Vendite.pptx` | Presentazione | Slide riassuntive del progetto per la presentazione finale del caso studio. |
 | `vendite.bpm` | Modello BPMN | File sorgente del diagramma dei processi di vendita (modellato con software BPMN / Bizagi). |
 | `bpmn.png` | Grafico / Diagramma | Esportazione ad alta risoluzione del workflow e del diagramma di flusso del processo di vendita. |
-| `database_clienti.xlsx` | Dataset iniziale | Foglio di calcolo con il database anagrafico e storico ordini dei clienti. |
-| `database_clienti_aggiornato.xlsx` | Dataset finale | Versione consolidata e aggiornata del database clienti post-elaborazione. |
+| `database_clienti.xlsx` | Dataset | Foglio di calcolo con il database anagrafico e storico ordini dei clienti. |
 
 ---
 
